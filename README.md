@@ -1,24 +1,14 @@
 # danielmobley.github.io
 my project
 htmlCopy<!DOCTYPE html>
-
 <html lang="en">
-
 <head>
-
     <meta charset="UTF-8">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <title>Tech News Today</title>
-
 </head>
-
 <body>
-
     <h1>Tech News Today</h1>
-
-    
 
     <h2>Featured Article: New AI Breakthrough</h2>
 
